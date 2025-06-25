@@ -13,4 +13,4 @@ Once the fungus declares their story complete, the entire chat is consolidated i
 
 Players who are the best players in enough games to reach lvl 80 will unlock the "Create New Forest" feature. They themselves are now a fungus.
 
-Players, at any given point in the story, can do a vote to report a fungus for trolling or misdirection.
+Players, at any given point in the story, can do a vote to report a fungus for trolling, lewd content, or misdirection.
