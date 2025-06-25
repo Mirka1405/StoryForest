@@ -22,3 +22,5 @@ Once the fungus declares their story complete, the entire chat is consolidated i
 Players who have achieved level 80 will unlock the "Create New Forest" feature. They themselves are now a fungus.
 
 Trees, at any given point in the story, can vote to report a fungus for trolling, lewd content, or misdirection.
+
+Those things from players are not a threat to story forests since fungi can veto whatever breaks the rules. Still, they can kick players from their games at their own discretion, or kick and report if needed. Fungi who kick players are responsible for writing it off as the player's character dying or losing importance to the plot.
