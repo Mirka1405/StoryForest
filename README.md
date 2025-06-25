@@ -1,5 +1,5 @@
 # StoryForest
-An idea by u/GoatsWithWigs: A DnD game without any dice
+An idea by @beholdthecandle: A DnD game without any dice
 
 ## Gameplay
 On the main menu, the player will see these buttons:

@@ -34,4 +34,4 @@ venv.bak/
 
 .idea/*
 
-
+.env
