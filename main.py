@@ -2,7 +2,9 @@ import os
 import disnake
 from disnake.ext import commands
 import sqlite3
-from typing import Callable
+from dotenv import load_dotenv
+
+load_dotenv()
 
 intents = disnake.Intents.default()
 intents.message_content = True
