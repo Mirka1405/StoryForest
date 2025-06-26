@@ -35,3 +35,4 @@ venv.bak/
 .idea/*
 
 .env
+.vscode
